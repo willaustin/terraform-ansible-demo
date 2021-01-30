@@ -1,0 +1,3 @@
+---
+default_container_name: mauve
+default_container_image: rootdevs/reliability-interview-container:201805
